@@ -4,9 +4,13 @@ To implement a license plate detection system using OpenCV and a Haar Cascade Cl
 
 ## Software Requirements
 Python 3.x
+
 OpenCV (cv2)
+
 NumPy
+
 Sample vehicle images
+
 haarcascade_russian_plate_number.xml
 ## Algorithm Steps
 Read the input image and convert it to grayscale for easier processing.
